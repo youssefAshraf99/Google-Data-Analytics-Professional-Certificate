@@ -4,7 +4,7 @@
 ![](https://drive.google.com/file/d/19jF4WJZXSKK-fwxEWOBgDbiaeYpZAqHa/view?usp=sharing)
 
 ---
-!team[https://github.com/youssefAshraf99/Google-Data-Analytics-Professional-Certificate/blob/master/c1.png]
+![team](https://github.com/youssefAshraf99/Google-Data-Analytics-Professional-Certificate/blob/master/c1.png)
 
 ### About this Professional Certificate
 **Data analytics** is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making. 
