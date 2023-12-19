@@ -5,7 +5,7 @@
 
 ---
 ### About this Professional Certificate
-
+!item[https://github.com/youssefAshraf99/Google-Data-Analytics-Professional-Certificate/blob/master/c1.png]
 **Data analytics** is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making. 
 
 Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their own careers. 
